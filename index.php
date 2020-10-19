@@ -1,7 +1,7 @@
 [
   {
     "name": "Абсент",
-    "realname": "Steve Rogers",
+    "realname": " 70 % (иногда 75 % или даже 89,9 %)",
     "team": "Avengers",
     "firstappearance": "1941",
     "createdby": "Joe Simon",

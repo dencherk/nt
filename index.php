@@ -1,7 +1,7 @@
 [
   {
     "name": "Абсент",
-    "realname": " 70 % (иногда 75 % или даже 89,9 %)",
+    "krepost": " 70 % (иногда 75 % или даже 89,9 %)",
     "team": "Avengers",
     "firstappearance": "1941",
     "createdby": "Joe Simon",
@@ -11,7 +11,7 @@
   },
   {
     "name": "Iron Man",
-    "realname": "Tony Stark",
+    "krepost": "Tony Stark",
     "team": "Avengers",
     "firstappearance": "1963",
     "createdby": "Stan Lee",
@@ -21,7 +21,7 @@
   },
   {
     "name": "Wolvarine",
-    "realname": "James Howlett",
+    "krepost": "James Howlett",
     "team": "X-Men",
     "firstappearance": "1974",
     "createdby": "Len Wein",
@@ -31,7 +31,7 @@
   },
   {
     "name": "Spiderman",
-    "realname": "Peter Parker",
+    "krepost": "Peter Parker",
     "team": "Avengers",
     "firstappearance": "1962",
     "createdby": "Stan Lee",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Thor",
-    "realname": "Thor Odinson",
+    "krepost": "Thor Odinson",
     "team": "Avengers",
     "firstappearance": "1962",
     "createdby": "Stan Lee",
